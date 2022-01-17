@@ -1,5 +1,7 @@
 # tribute-page
 
+<img id="image" src="images/screenshot-tribute-page.jpg" alt="Screenshot of the page."></img>
+
 ## What is this project?
 Ada Lovelace's Tribute Page made for FreeCodeCamp Certification
 
