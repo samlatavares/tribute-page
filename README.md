@@ -1,5 +1,5 @@
 # tribute-page
-<span>English</span> | <a href="https://github.com/samlatavares/tribute-page/tree/main/translations/pt-br/README.md">Português</a>
+<span>English</span> | <a href="https://github.com/samlatavares/tribute-page/blob/master/translations/pt-br/README.md">Português</a>
 
 <img id="image" src="images/screenshot-tribute-page.jpg" alt="Screenshot of the page."></img>
 
