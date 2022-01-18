@@ -1,7 +1,7 @@
 # tribute-page
-<a href="https://github.com/samlatavares/tribute-page/tree/main/README.md">English</a> | <span>Português</span>
+<a href="https://github.com/samlatavares/tribute-page/blob/master/README.md">English</a> | <span>Português</span>
 
-<img id="image" src="images/screenshot-tribute-page.jpg" alt="Printscreen da tela."></img>
+<img id="image" src="https://github.com/samlatavares/tribute-page/blob/master/images/screenshot-tribute-page.jpg" alt="Printscreen da tela."></img>
 
 ## O que é esse projeto?
 É uma página de tributo à Ada Lovelace feita para a certificação de Web Design Responsivo do FreeCodeCamp.
