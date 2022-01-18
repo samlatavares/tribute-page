@@ -15,4 +15,4 @@ Para clonar o projeto:
 - git clone https://github.com/samlatavares/tribute-page
 
 
-caso você queira ver o resultado do projeto, você pode acessá-lo <a href="https://samlatavares.github.io/tribute-page/" target="_blank">aqui</a>.
+Caso você queira ver o resultado do projeto, você pode acessá-lo <a href="https://samlatavares.github.io/tribute-page/" target="_blank">aqui</a>.
